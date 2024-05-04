@@ -17,9 +17,9 @@
 - 📫 How to reach me **q.aqib.abdullah@gmail.com**
 
 - ⚡ Fun fact **As a Software Engineer, I've mastered the art of multitasking not only in coding but also in managing my FIFA matches, savoring a freshly brewed cup of coffee, and experimenting with new recipes—all while keeping my code bug-free and my creativity levels high!**
-
-<h3 align="left">Connect with me:</h3>
 <br />
+
+## _Connect with me:_ 
 <p align="center">
   <a href="https://linkedin.com/in/aqib773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqib773" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/9985420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9985420" height="30" width="40" /></a>
@@ -30,8 +30,7 @@
 </p>
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
-<br />
+## _Languages and Tools:_
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -95,18 +94,14 @@
   alt="webpack" width="40" height="40" /> </a></p>
 <br />
 
-
-<h3 align="left">Github Stats:</h3>
-<br />
+## _Github Stats:_
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazi-akib-abdullah&" alt="kazi-akib-abdullah" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kazi-akib-abdullah&show_icons=true&locale=en" alt="kazi-akib-abdullah" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazi-akib-abdullah&show_icons=true&locale=en&layout=compact" alt="kazi-akib-abdullah" /></p>
-
-
-<h3 align="left">WakaTime Stats:</h3>
 <br />
+
+## _WakaTime Stats:_
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kazi_akib_abdullah&layout=compact" alt="kazi_akib_abdullah" /></p>
-
-
-<h3 align="left">DevCard:</h3>
 <br />
+
+## _DevCard:_
 <a href="https://app.daily.dev/kazi_akib_abdullah"><img src="https://api.daily.dev/devcards/v2/qHzPBZXIpTTDoUoOEUBrw.png?type=default&r=to1" width="356" alt="Kazi Akib Abdullah's Dev Card"/></a>
