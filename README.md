@@ -13,9 +13,9 @@
 ## _Connect with me:_ 😄
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kazi-akib-abdullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KaziAkibAbdullah" height="30" width="40" /></a>
-<a href="https://www.facebook.com/yourfacebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yourfacebook" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/your-stackoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aqib773/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KaziAkibAbdullah" height="30" width="40" /></a>
+<a href="https://www.facebook.com/q.aqib.abdullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yourfacebook" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9985420/kazi-akib-abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow" height="30" width="40" /></a>
 </p>
 
 ## _Languages and Tools:_ ⚡
@@ -37,7 +37,7 @@
 
 ## _Github Stats:_ ⚡
 
-![Kazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaziAkibAbdullah)
+![Kazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazi-akib-abdullah)
 
 ## _Waka Time Stats:_ ⚡
     
@@ -45,4 +45,4 @@
    
 ## _DevCard:_ ⚡   
     
-<a href="https://app.daily.dev/KaziAkibAbdullah"><img src="https://api.daily.dev/devcards/99c3841bffa4473b9c9edc4355f5be79.png?r=ptx" width="300" alt="Kazi Akib Abdullah's Dev Card"/></a>
+<a href="https://app.daily.dev/kazi_akib_abdullah"><img src="https://api.daily.dev/devcards/v2/qHzPBZXIpTTDoUoOEUBrw.png?r=k3k&type=wide" width="652" alt="Kazi Akib Abdullah's Dev Card"/></a>
