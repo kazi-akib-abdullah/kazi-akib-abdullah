@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **my journey as a software engineer, tips for mastering programming languages, or insights into the tech industry.**
 
-- 📫 How to reach me **q.aqib.abdullah@gmail.com**
+- 📫 How to reach me **You can connect with me via LinkedIn or drop me an email at [q.aqib.abdullah@gmail.com]**
 
 - ⚡ Fun fact **As a Software Engineer, I've mastered the art of multitasking not only in coding but also in managing my FIFA matches, savoring a freshly brewed cup of coffee, and experimenting with new recipes—all while keeping my code bug-free and my creativity levels high!**
 <br />
