@@ -2,20 +2,20 @@
    <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4733z8dnc9hs39t80q8p5lvbt892qkbnkjjj917war&rid=giphy.gif&ct=g" width="230">
 </p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Mueem-Nahid&label=Profile%20views&color=0e75b6&style=social" alt="Mueem-Nahid" /> 
+  <img src="https://komarev.com/ghpvc/?username=KaziAkibAbdullah&label=Profile%20views&color=0e75b6&style=social" alt="KaziAkibAbdullah" /> 
 </p>
-<h1 align="center"> Hi 👋, I'm Mueem Nahid </h1>
+<h1 align="center"> Hi 👋, I'm Kazi Akib Abdullah </h1>
 <p>
-  I have graduated from <a href="https://www.ewubd.edu/">East West University, Bangladesh</a>. I have completed 6 months internship at <a href="https://w3engineers.com/"> W3 Engineers, Bangladesh</a>. Currently I am working as a junior software engineer at <a href="https://w3engineers.com/"> W3 Engineers, Bangladesh</a>.
+  I am currently a Software Engineer at Brick Line Technology. I graduated from <a href="https://www.juniv.edu/">Jashore University of Science and Technology</a>. Previously, I worked at W3 Engineers during my 6-month internship.
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
 
 ## _Connect with me:_ 😄
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mueem-nahid-a5258b15b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman-prottoy" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mueem.nahid.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salman.prottoy1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16845806/mueem-nahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9850634" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kazi-akib-abdullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KaziAkibAbdullah" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yourfacebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yourfacebook" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/your-stackoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow" height="30" width="40" /></a>
 </p>
 
 ## _Languages and Tools:_ ⚡
@@ -37,12 +37,12 @@
 
 ## _Github Stats:_ ⚡
 
-![Mueem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mueem-Nahid)
+![Kazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaziAkibAbdullah)
 
 ## _Waka Time Stats:_ ⚡
     
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mueem_nahid&layout=compact" alt="mueem_nahid" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kazi_akib_abdullah&layout=compact" alt="kazi_akib_abdullah" /></p>
    
 ## _DevCard:_ ⚡   
     
-<a href="https://app.daily.dev/MuEEm"><img src="https://api.daily.dev/devcards/99c3841bffa4473b9c9edc4355f5be79.png?r=ptx" width="300" alt="Mueem Nahid's Dev Card"/></a>
+<a href="https://app.daily.dev/KaziAkibAbdullah"><img src="https://api.daily.dev/devcards/99c3841bffa4473b9c9edc4355f5be79.png?r=ptx" width="300" alt="Kazi Akib Abdullah's Dev Card"/></a>
