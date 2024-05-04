@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kazi Akib Abdullah</h1>
 <h3 align="center">Crafting Code and Building Dreams</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazi-akib-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="kazi-akib-abdullah" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kazi-akib-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="kazi-akib-abdullah" /> </p>
+<hr />
 
 - 🔭 I’m currently working on **developing innovative software solutions at Brick Line Technology, focusing on enhancing user experiences and optimizing performance.**
 
@@ -14,10 +15,6 @@
 - 📫 How to reach me **q.aqib.abdullah@gmail.com**
 
 - ⚡ Fun fact **As a Software Engineer, I've mastered the art of multitasking not only in coding but also in managing my FIFA matches, savoring a freshly brewed cup of coffee, and experimenting with new recipes—all while keeping my code bug-free and my creativity levels high!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
