@@ -100,7 +100,7 @@
 <br />
 
 ## WakaTime Stats: *[Since 4 May, 2024]*
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kazi_akib_abdullah&layout=compact" alt="kazi_akib_abdullah" /></p>
+<p><figure><embed src="https://wakatime.com/share/@kazi_akib_abdullah/a560c0f7-3331-4fb3-acb5-c61ae7fac5a5.svg"></embed></figure></p>
 <br />
 
 ## DevCard:
