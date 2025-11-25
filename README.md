@@ -100,7 +100,7 @@
 <br />
 
 ## WakaTime Stats: *[Since 4 May, 2024]*
-<p><figure><embed src="https://wakatime.com/share/@kazi_akib_abdullah/a560c0f7-3331-4fb3-acb5-c61ae7fac5a5.svg"></embed></figure></p>
+<p><a href="https://wakatime.com"><img src="https://wakatime.com/share/@kazi_akib_abdullah/65e24eb9-79ce-4ac6-80d3-282dfaabadb0.png" /></a></p>
 <br />
 
 ## DevCard:
